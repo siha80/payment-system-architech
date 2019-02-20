@@ -23,5 +23,3 @@
 
 <hr />
 
-<iframe width="560" height="315" src="./system-images/index.html" frameborder="0">
-</iframe>
